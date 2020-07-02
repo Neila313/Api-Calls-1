@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+	background-color: #333333;
+}
+
+body {
+	background-color: black;
+	color: white;
+	max-width: 100%;
+}
+
+h1 {
+	text-align: center;
+}
+
+#pays {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-left: 15%;
+	width: 70%;
+}
+
+p {
+	text-align: center;
+}
